@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankurjaiswalofficial&label=Profile%20views&color=brightgreen&style=plastic" alt="ankurjaiswalofficial profile view count" /> </p>
 
-[![Holopin badges](https://holopin.me/ankurjaiswalofficial)](https://holopin.io/@ankurjaiswalofficial)
+[![An image of @ankurjaiswalofficial's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankurjaiswalofficial)](https://holopin.io/@ankurjaiswalofficial)
+
 
 ## 🏆 Github Profile Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankurjaiswalofficial&theme=juicyfresh" alt="ankurjaiswalofficial" /></a> </p>
