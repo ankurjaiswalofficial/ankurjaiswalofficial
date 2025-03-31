@@ -9,12 +9,12 @@
 ---
 
 ## 💫 About Me
-- 🔭 Currently building: **Live Chat Application**
-- 🌱 Learning: **LangChain, AI Orchestration, and Autonomous Agents**
+- 🔭 Currently building: **WebPad**
+- 🌱 Learning: **System Designing, LangChain, AI Orchestration, and Autonomous Agents**
 - 👯 Open to collaborate on: **Code Editors, Productivity Tools, and Real-time Systems**
 - 🤖 Looking for help with: **Advanced Chat Orchestration**
 - 💬 Ask me about: **Python, Node.js, Next.js, FastAPI, LangChain, LLMOps**
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/ankurjaiswalofficial) • [Twitter](https://twitter.com/ankurjaguar) • [YouTube](https://youtube.com/c/@codemycoder)
+- 📫 Reach me: [Portfolio](https://ankurjaiswalofficial.vercel.app/) • [LinkedIn](https://linkedin.com/in/ankurjaiswalofficial) • [Twitter](https://twitter.com/ankurjaiswaloff) • [YouTube](https://youtube.com/c/@codemycoder)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I believe perfection is not an act, it's a habit—and I make sure everything I build reflects that.
 
