@@ -9,7 +9,8 @@
 ---
 
 ## 💫 About Me
-- 🔭 Currently building: **WebPad**
+- 🔭 Currently building: **WhatsappCloneE2E**
+- 🚀 Recently built: **WebPad**
 - 🌱 Learning: **System Designing, LangChain, AI Orchestration, and Autonomous Agents**
 - 👯 Open to collaborate on: **Code Editors, Productivity Tools, and Real-time Systems**
 - 🤖 Looking for help with: **Advanced Chat Orchestration**
