@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Ankur
 
-I'm a **backend-focused full-stack engineer** with 3+ years of experience building **scalable, real-time, and distributed systems**. I work primarily with **Python-based backend frameworks** and modern **TypeScript frontends**, and I enjoy owning systems end-to-end—from **API design and automation** to **containerized deployments**.
+I'm a **backend-focused full-stack engineer** with 5+ years of experience building **scalable, real-time, and distributed systems**. I work primarily with **Python-based backend frameworks** and modern **TypeScript frontends**, and I enjoy owning systems end-to-end—from **API design and automation** to **containerized deployments**.
 
 #### What I work on
 - **Backend systems** using Python, Django, FastAPI, and asynchronous architectures  
