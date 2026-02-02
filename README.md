@@ -1,4 +1,19 @@
-# 👋 Hi there, I'm Ankur Jaiswal
+### 👋 Hi, I'm Ankur
+
+I'm a **backend-focused full-stack engineer** with 3+ years of experience building **scalable, real-time, and distributed systems**. I work primarily with **Python-based backend frameworks** and modern **TypeScript frontends**, and I enjoy owning systems end-to-end—from **API design and automation** to **containerized deployments**.
+
+#### What I work on
+- **Backend systems** using Python, Django, FastAPI, and asynchronous architectures  
+- **Real-time communication** with WebSockets and event-driven messaging  
+- **Server automation & orchestration**, including Dockerized production deployments  
+- **Internal tools & platforms** that improve operational workflows  
+- **Modern frontend integration** using React, Next.js, and Vue
+
+#### Tech I use often
+Python · Django · FastAPI · WebSockets · Docker · Kafka · Redis · PostgreSQL · TypeScript · React · Next.js · Linux
+
+I'm always interested in building **reliable systems**, learning new technologies, and collaborating on projects where **clean architecture and ownership matter**.
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ankurjaiswalofficial&label=Profile%20views&color=brightgreen&style=plastic" alt="ankurjaiswalofficial profile view count" />
